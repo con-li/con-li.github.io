@@ -13,8 +13,8 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     尔总李
-zhihu_username:     李尔总
+weibo_username:     u/6311423781
+zhihu_username:     li-mei-shi-93
 github_username:    con-li
 #xueqiu_username:        李尔总
 #facebook_username:  huxpro

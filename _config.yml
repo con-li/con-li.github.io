@@ -78,7 +78,7 @@ netease_comment: false
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "All models are wrong,<br>but some are useful."
+sidebar-about-description: "做你能做<br>爱你想爱"
 sidebar-avatar: /img/sidebar-ver01.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 

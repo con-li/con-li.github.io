@@ -101,12 +101,12 @@ page-mathjax: false
 
 
 # Friends
-friends: [
-    {
+#friends: [
+ #   {
     #     title: "Su",
     #     href: "http://su.gallery/"
     # },{
     #    title: "乱序",
     #    href: "http://mida.re/"
-    }
-]
+  #  }
+#]

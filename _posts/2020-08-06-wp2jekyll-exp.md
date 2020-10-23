@@ -2,7 +2,7 @@
 layout: post
 title: "自建博客从WordPress迁移到Jekyll"
 author: Cong Li
-date: 2020-07-06 09:05:15
+date: 2020-08-06 09:05:15
 header-style: text
 tags:
 - 生命体验

@@ -2,7 +2,7 @@
 layout: post
 title: "北京普通住宅板块粗分"
 author: Cong Li
-date: 2020-12-11 12:11:22
+date: 2021-01-11 12:11:22
 header-style: text
 tags:
 - 商业分析

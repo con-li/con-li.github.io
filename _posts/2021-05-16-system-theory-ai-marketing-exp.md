@@ -1,13 +1,14 @@
 ---
 layout: post
-title: "系统工程理论脉络"
+title: "系统工程视角下的智能营销"
 author: Cong Li
 date: 2021-05-16 11:25:11
 header-style: text
 tags:
-- 知识规划
+- 生命体验
 - 商业分析
 - 系统工程
+- 智能营销
 ---
 ### 1. 系统工程
 

@@ -9,6 +9,8 @@ tags:
 - 生命体验
 - 大数据
 ---
+此处写的粗糙，后续会分别细写。
+
 ### 1. 特征工程
 
   * 采集+业务理解
@@ -18,12 +20,12 @@ tags:
 ### 2. 核心模型
 
   * 独立模型 
-      * 经典统计：分类（有无监督）+回归+时序
-      * 神经网络（层次模型）：DNN+CNN+RNN+强化+迁移+GANs
-      * 知识图谱（概率图模型）：Bayesian+Markov
+      * 经典统计：分类（有无监督），回归，时序
+      * 神经网络（层次模型）：DNN，CNN，RNN，强化，迁移，GANs
+      * 知识图谱（概率图模型）：Bayesian，Markov
   * 混合模型 
-      * Bagging
-      * Boosting
+      * Bagging：RandomForest
+      * Boosting：GBDT，XGBoost
 
 ### 3. 调参策略
 

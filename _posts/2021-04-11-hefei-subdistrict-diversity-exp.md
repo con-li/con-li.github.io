@@ -23,7 +23,7 @@ tags:
 
 ### 2.合肥主城区+主要开发区板块
 
-合肥等二线城市，第三类、第四类板块不纳入投资考虑范围，板块划分参考[北京普通住宅板块粗分](https://www.congli.pw/2021/01/11/subdistrict-diversity-exp/)
+合肥等二线城市，第三类、第四类板块不纳入投资考虑范围，板块划分参考[北京普通住宅板块粗分](https://www.congli.pw/2021/01/11/beijing-subdistrict-diversity-exp/)
 
 - 庐阳
   - 第一类板块：亳州、三孝口、逍遥津

@@ -27,7 +27,7 @@ tags:
 
 ### 2.天津城六区板块
 
-天津城六区面积较小，没有第三、第四类板块，板块划分参考[北京普通住宅板块粗分](https://www.congli.pw/2021/01/11/subdistrict-diversity-exp/)
+天津城六区面积较小，没有第三、第四类板块，板块划分参考[北京普通住宅板块粗分](https://www.congli.pw/2021/01/11/beijing-subdistrict-diversity-exp/)
 
 - 和平
   - 第一类板块：南市、劝业场、体育馆街、小白楼

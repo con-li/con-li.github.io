@@ -9,7 +9,7 @@ tags:
 - 生命体验
 - 应用统计
 ---
-All judgements are, in their rationale, statistics. 
+C. R. Rao概括过All judgements are, in their rationale, statistics. 统计决策理论（A. Wald）的核心（待续）。
 
 ### 1. 社会科学
 

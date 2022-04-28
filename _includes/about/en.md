@@ -4,4 +4,4 @@ Hi, I am Cong Li, a business analyst, and a data scientist in banking. My full-t
 
 Presently, I live in Beijing, you can find me online via [Blog](http://www.congli.pw)、[Weibo](https://weibo.com/18910006720)、[Zhihu](https://www.zhihu.com/people/lierzong)、[Xueqiu](https://xueqiu.com/5290740951)、[Github](https://github.com/con-li)、[LinkedIn](https://www.linkedin.com/in/cong-li-a97b3053)。
 
-
+My email is fllicong@163.com
